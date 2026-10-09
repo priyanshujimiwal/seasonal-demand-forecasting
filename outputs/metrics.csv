@@ -1,0 +1,7 @@
+category,model,MAE_kg,MAPE_%
+flowers,Baseline Prophet,298.26,26.66
+flowers,Prophet + festival score,92.86,7.69
+fruits,Baseline Prophet,259.93,14.2
+fruits,Prophet + festival score,116.89,6.25
+vegetables,Baseline Prophet,295.42,9.19
+vegetables,Prophet + festival score,175.65,5.24
